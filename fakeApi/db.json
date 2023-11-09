@@ -48,6 +48,24 @@
             "id": 3,
             "question": "Jak w HTML wstawic responsywny obrazek?",
             "answer": "Znacznik img z atrybutem srcset lub znacznik picture",
+            "setId": 1
+        },
+        {
+            "id": 4,
+            "question": "Jak w HTML wstawic responsywny obrazek?",
+            "answer": "Znacznik img z atrybutem srcset lub znacznik picture",
+            "setId": 1
+        },
+        {
+            "id": 5,
+            "question": "Jak w HTML wstawic responsywny obrazek?",
+            "answer": "Znacznik img z atrybutem srcset lub znacznik picture",
+            "setId": 1
+        },
+        {
+            "id": 6,
+            "question": "Jak w HTML wstawic responsywny obrazek?",
+            "answer": "Znacznik img z atrybutem srcset lub znacznik picture",
             "setId": 2
         }
     ]
