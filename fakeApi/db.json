@@ -9,7 +9,6 @@
             "author": "Jarek",
             "description": "Some desc",
             "thumbnail": "file.jpg"
-
         },
         {
             "id": 2,
@@ -20,7 +19,6 @@
             "author": "Sławek",
             "description": "Some desc",
             "thumbnail": "file.jpg"
-
         },
         {
             "id": 3,
@@ -31,7 +29,26 @@
             "author": "Donald",
             "description": "Some desc",
             "thumbnail": "file.jpg"
-
+        }
+    ],
+    "flashcards": [
+        {
+            "id": 1,
+            "question": "Jak za pomoca useEffect zrobic componentWillUnmount?",
+            "answer": "Callback w useEffect musi zwrocic inny callBack, ktory sie wtedy wykona",
+            "setId": 1
+        },
+        {
+            "id": 2,
+            "question": "Z jakiego paradygmantu pochodzi clousure?",
+            "answer": "Z paradygmantu funkcyjnego, ktotry wywodzi sie z rachunku lambda",
+            "setId": 1
+        },
+        {
+            "id": 3,
+            "question": "Jak w HTML wstawic responsywny obrazek?",
+            "answer": "Znacznik img z atrybutem srcset lub znacznik picture",
+            "setId": 2
         }
     ]
 }
